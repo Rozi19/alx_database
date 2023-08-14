@@ -19,3 +19,8 @@ If the database hbtn_0c_0 doesn’t exist, your script should not fail
 <br>
 You are not allowed to use the SELECT or SHOW statements
 <br>
+<h2>3. List tables</h2>
+<br>
+Write a script that lists all the tables of a database in your MySQL server.
+<br>
+The database name will be passed as argument of mysql command (in the following example: mysql is the name of the database)<br>
