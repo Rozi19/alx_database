@@ -11,3 +11,11 @@ Write a script that creates the database hbtn_0c_0 in your MySQL server.
 If the database hbtn_0c_0 already exists, your script should not fail
 <br>You are not allowed to use the SELECT or SHOW statements
 <br>
+<h2>2. Delete a database</h2>
+<br>
+Write a script that deletes the database hbtn_0c_0 in your MySQL server.
+<br>
+If the database hbtn_0c_0 doesn’t exist, your script should not fail
+<br>
+You are not allowed to use the SELECT or SHOW statements
+<br>
