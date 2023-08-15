@@ -54,3 +54,8 @@ New row:<br>
 id = 89<br>
 name = Holberton School<br>
 The database name will be passed as an argument of the mysql command<br>
+<h2>8. Count 89</h2>
+<br>
+Write a script that displays the number of records with id = 89 in the table first_table of the database hbtn_0c_0 in your MySQL server.
+<br>
+The database name will be passed as an argument of the mysql command<br>
