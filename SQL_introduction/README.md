@@ -59,3 +59,19 @@ The database name will be passed as an argument of the mysql command<br>
 Write a script that displays the number of records with id = 89 in the table first_table of the database hbtn_0c_0 in your MySQL server.
 <br>
 The database name will be passed as an argument of the mysql command<br>
+<h2>9. Full creation</h2>
+<br>
+Write a script that creates a table second_table in the database hbtn_0c_0 in your MySQL server and add multiples rows.
+<br>
+second_table description:<br>
+id INT<br>
+name VARCHAR(256)<br>
+score INT<br>
+The database name will be passed as an argument to the mysql command<br>
+If the table second_table already exists, your script should not fail<br>
+You are not allowed to use the SELECT and SHOW statements<br>
+Your script should create these records:<br>
+id = 1, name = “John”, score = 10<br>
+id = 2, name = “Alex”, score = 3<br>
+id = 3, name = “Bob”, score = 14<br>
+id = 4, name = “George”, score = 8<br>
