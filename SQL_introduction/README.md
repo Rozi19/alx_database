@@ -40,3 +40,9 @@ Write a script that prints the full description of the table first_table from th
 <br>
 The database name will be passed as an argument of the mysql command<br>
 You are not allowed to use the DESCRIBE or EXPLAIN statements<br>
+<h2>6. List all in table</h2>
+<br>
+Write a script that lists all rows of the table first_table from the database hbtn_0c_0 in your MySQL server.
+<br>
+All fields should be printed<br>
+The database name will be passed as an argument of the mysql command<br>
