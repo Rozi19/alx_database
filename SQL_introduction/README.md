@@ -46,3 +46,11 @@ Write a script that lists all rows of the table first_table from the database hb
 <br>
 All fields should be printed<br>
 The database name will be passed as an argument of the mysql command<br>
+<h2>7. First add</h2>
+<br>
+Write a script that inserts a new row in the table first_table (database hbtn_0c_0) in your MySQL server.
+<br>
+New row:<br>
+id = 89<br>
+name = Holberton School<br>
+The database name will be passed as an argument of the mysql command<br>
