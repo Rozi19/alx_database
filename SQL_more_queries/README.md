@@ -30,3 +30,12 @@ id INT<br>
 name VARCHAR(256) can’t be null<br>
 The database name will be passed as an argument of the mysql command<br>
 If the table force_name already exists, your script should not fail<br>
+<h2>4. ID can't be null</h2>
+<br>
+Write a script that creates the table id_not_null on your MySQL server.
+<br>
+id_not_null description:<br>
+id INT with the default value 1<br>
+name VARCHAR(256)<br>
+The database name will be passed as an argument of the mysql command<br>
+If the table id_not_null already exists, your script should not fail<br>
