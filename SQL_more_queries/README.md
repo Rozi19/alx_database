@@ -57,3 +57,13 @@ id INT unique, auto generated, can’t be null and is a primary key<br>
 name VARCHAR(256) can’t be null<br>
 If the database hbtn_0d_usa already exists, your script should not fail<br>
 If the table states already exists, your script should not fail<br>
+<h2>7. Cities table</h2>
+<br>
+Write a script that creates the database hbtn_0d_usa and the table cities (in the database hbtn_0d_usa) on your MySQL server.
+<br>
+cities description:<br>
+id INT unique, auto generated, can’t be null and is a primary key<br>
+state_id INT, can’t be null and must be a FOREIGN KEY that references to id of the states table<br>
+name VARCHAR(256) can’t be null<br>
+If the database hbtn_0d_usa already exists, your script should not fail<br>
+If the table cities already exists, your script should not fail<br>
