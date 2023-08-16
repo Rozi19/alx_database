@@ -39,3 +39,12 @@ id INT with the default value 1<br>
 name VARCHAR(256)<br>
 The database name will be passed as an argument of the mysql command<br>
 If the table id_not_null already exists, your script should not fail<br>
+<h2>5. Unique ID</h2>
+<br>
+Write a script that creates the table unique_id on your MySQL server.
+<br>
+unique_id description:<br>
+id INT with the default value 1 and must be unique<br>
+name VARCHAR(256)<br>
+The database name will be passed as an argument of the mysql command<br>
+If the table unique_id already exists, your script should not fail<br>
