@@ -67,3 +67,11 @@ state_id INT, can’t be null and must be a FOREIGN KEY that references to id of
 name VARCHAR(256) can’t be null<br>
 If the database hbtn_0d_usa already exists, your script should not fail<br>
 If the table cities already exists, your script should not fail<br>
+<h2>8. Cities of California</h2>
+<br>
+Write a script that lists all the cities of California that can be found in the database hbtn_0d_usa.
+<br>
+The states table contains only one record where name = California (but the id can be different, as per the example)<br>
+Results must be sorted in ascending order by cities.id<br>
+You are not allowed to use the JOIN keyword<br>
+The database name will be passed as an argument of the mysql command<br>
